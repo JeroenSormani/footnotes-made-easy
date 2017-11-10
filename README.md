@@ -2,6 +2,8 @@
 
 Footnotes Made Easy is a simple, but powerful, method of adding footnotes into your posts and pages.
 
+**Footnotes Made Easy is a fork of [WP Footnotes](https://github.com/drzax/wp-footnotes "Github - wp-footnotes"), a plugin by Simon Elvery which was abandoned some years ago.**
+
 Features include...
 
 * Simple footnote insertion via double parentheses
