@@ -13,7 +13,7 @@ Features include...
 
 Creating a footnote is incredibly simple - you just need to include your footnote in double parentheses, such as this...
 
-This is a sentence ((and this is your footnote)).
+>This is a sentence ((and this is your footnote)).
 
 The footnote will then appear at the bottom of your post/page.
 
