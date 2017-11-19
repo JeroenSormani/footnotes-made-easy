@@ -2,8 +2,11 @@
 Contributors: dartiss
 Tags: bibliography, footnotes, formatting, notes, reference, referencing
 Requires at least: 4.6
-Tested up to: 4.8
+Tested up to: 4.9
+Requires PHP: 5.3
 Stable tag: 1.0.1
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Allows post authors to easily add and manage footnotes in posts.
 
@@ -30,7 +33,7 @@ Technical specification...
 
 **Footnotes Made Easy is a fork of [WP Footnotes](https://github.com/drzax/wp-footnotes "Github - wp-footnotes"), a plugin by Simon Elvery which was abandoned some years ago.**
 
-For the latest known issue and planned enhancements, please see [my Bug Tracker site](https://artiss.uk/bugtracker/index.php?project=25 "Bug Tracker") site.
+Please visit the [Github page](https://github.com/dartiss/footnotes-made-easy "Github") for the latest code development, planned enhancements and known issues.
 
 == Getting Started ==
 
